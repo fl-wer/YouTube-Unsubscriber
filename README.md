@@ -9,4 +9,4 @@ Unsubscribe from all channels, doesn't get stuck and gets the job done.
 3. Go to Console tab and in the input field copy-paste [this script](unsubscribe.js) 
 
 # Reccomended
-- Zoom out before launching the script as the lines between 50 subscribers might clog up your screen and if next subscribers are not visible your browser will not load them
+- Zoom out in your browser before launching the script as the lines between 50 subscribers might clog up your screen and if next subscribers are not visible your browser will not load them.

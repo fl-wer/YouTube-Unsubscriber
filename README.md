@@ -7,4 +7,3 @@ Unsubscribe from all channels, doesn't get stuck and gets the job done.
 1. Go to https://www.youtube.com/feed/channels  
 2. Right click anywhere on the screen and choose Inspect / Inspect Element.  
 3. Go to Console tab and in the input field copy-paste https://github.com/fl-wer/YouTube-Unsubscriber/blob/main/unsubscribe.js  
-4. Click enter to push the script
